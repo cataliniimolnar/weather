@@ -6,7 +6,7 @@
 <title>Movies...</title>
 <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" />
 <link rel="stylesheet" type="text/css" href="assets/css/main.css"/>
-<link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 </head>
 <body>
 	<div class="wrapper" ng-app="app" ng-cloack ng-controller="MainController">
@@ -34,18 +34,18 @@
 		<article class="hidden">
 			<img ng-src={{rndm1.poster}} alt="{{rndm1.title}}">
 			<div class="description">
-				<h2>{{rndm1.title}}
-				<br/>
-				<small>
+				<h2>{{rndm1.title}}</h2>
+				<p style="font-weight: 600;">
 					{{rndm1.year}} 
 					<i class="fa fa-clock-o" aria-hidden="true"></i> 
 					{{rndm1.duration}}
-				</small>
-				</h2>
+				</p>
 				<p>
-					{{rndm1.genre}}
-					<br/>
-					{{rndm1.actors}}
+					<small>
+						{{rndm1.genre}}
+						<br/>
+						{{rndm1.actors}}
+					</small>
 				</p>
 				<i id="i__1" class="fa fa-film" title="YT Trailer" aria-hidden="true">
 					<div id="tr__1" class="hidden">{{rndm1.trailer}}</div>
@@ -59,18 +59,18 @@
 		<article class="hidden">
 			<img ng-src={{rndm2.poster}} alt="{{rndm2.title}}">
 			<div class="description">
-				<h2>{{rndm2.title}}
-				<br/>
-				<small>
+				<h2>{{rndm2.title}}</h2>
+				<p style="font-weight: 600;">
 					{{rndm2.year}} 
 					<i class="fa fa-clock-o" aria-hidden="true"></i> 
 					{{rndm2.duration}}
-				</small>
-				</h2>
+				</p>
 				<p>
-					{{rndm2.genre}}
-					<br/>
-					{{rndm2.actors}}
+					<small>
+						{{rndm2.genre}}
+						<br/>
+						{{rndm2.actors}}
+					</small>
 				</p>
 				<i id="i__2" class="fa fa-film" title="YT Trailer" aria-hidden="true">
 					<div id="tr__2" class="hidden">{{rndm2.trailer}}</div>
@@ -84,18 +84,18 @@
 		<article class="hidden">
 			<img ng-src={{rndm3.poster}} alt="{{rndm3.title}}">
 			<div class="description">
-				<h2>{{rndm3.title}}
-				<br/>
-				<small>
+				<h2>{{rndm3.title}}</h2>
+				<p style="font-weight: 600;">
 					{{rndm3.year}} 
 					<i class="fa fa-clock-o" aria-hidden="true"></i> 
 					{{rndm3.duration}}
-				</small>
-				</h2>
+				</p>
 				<p>
-					{{rndm3.genre}}
-					<br/>
-					{{rndm3.actors}}
+					<small>
+						{{rndm3.genre}}
+						<br/>
+						{{rndm3.actors}}
+					</small>
 				</p>
 				<i id="i__3" class="fa fa-film" title="YT Trailer" aria-hidden="true">
 					<div id="tr__3" class="hidden">{{rndm3.trailer}}</div>
