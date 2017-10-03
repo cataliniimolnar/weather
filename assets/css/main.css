@@ -87,6 +87,7 @@ article .description {
 	padding: 8px 12px;
 	text-align: center;
 	opacity: 0;
+	overflow: hidden;
 	z-index: 2;
 	}
 article .description h2 {
@@ -95,7 +96,7 @@ article .description h2 {
 	}
 article .description p {
 	margin: 3px 0;
-	font-size: 0.9em;
+	font-size: 1.1em;
 	}
 article .description h2, article .description p { cursor: default; }
 article .description .fa-film { cursor: pointer; font-size: 1.4em; }
