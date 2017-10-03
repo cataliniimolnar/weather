@@ -3,8 +3,8 @@
 *::before {
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	margin: 0; padding: 0;
-	user-select: none;
+	margin: 0; 
+	padding: 0;
 	}
 
 html{
@@ -79,6 +79,7 @@ article img {
 	height: 450px;
 	z-index: 1;
 	}
+article > * { user-select: none; }
 article .description {
 	width: 315px;
 	height: 450px;

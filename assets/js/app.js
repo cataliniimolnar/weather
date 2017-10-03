@@ -9,7 +9,7 @@ app.controller("MainController", function($scope){
 			genre: 'Action, Comedy, Crime',
             actors: 'Denzel Washington, Mark Wahlberg, Paula Patton',
 			description: "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
-			poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_SY1000_CR0,0,630,1000_AL_.jpg',
+			poster: 'https://borgdotcom.files.wordpress.com/2014/05/2-guns-movie-poster.jpg',
 			trailer: 'AK6EbfdnTHg'
         },
         {
@@ -19,7 +19,7 @@ app.controller("MainController", function($scope){
 			genre: 'Adventure, Crime, Drama',
             actors: 'Russell Crowe, Christian Bale, Ben Foster',
 			description: "TA small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
-			poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SY1000_CR0,0,663,1000_AL_.jpg',
+			poster: 'https://upload.wikimedia.org/wikipedia/en/2/27/310_to_Yuma_%282007_film%29.jpg',
 			trailer: 'mmtYNhFTPpw'
         },
         {
