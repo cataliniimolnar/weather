@@ -19,7 +19,7 @@ body{
 	}
 
 h1, h2, p {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: 'Shadows Into Light', Verdana, Geneva, cursive, sans-serif;
 	font-size: 1em;
 	font-weight: 400;
 	}
@@ -91,7 +91,6 @@ article .description {
 	}
 article .description h2 {
 	font-size: 1.3em;
-	font-family: 'Shadows Into Light', cursive;
 	}
 article .description p {
 	margin: 3px 0;
