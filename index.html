@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<title>Movies...</title>
+<link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="assets/css/main.css"/>
+</head>
+<body>
+	<div class="wrapper" ng-app="app" ng-cloack ng-controller="MainController">
+
+		<nav>
+			
+			<div ng-click="updateM()" class="btn_test">
+				<svg viewBox="0 0 260 260">
+				<g>
+					<path style="fill:#414a4c;" d="M248.348,129.3h-15.849C232.41,65.277,180.831,13.394,117.202,13.394
+					c-31.841,0-60.661,12.998-81.534,33.996C14.017,68.549,0.25,97.092,0.036,129.3H0l0.018,0.331L0,130.033h0.036
+					c0.393,63.853,51.758,115.816,115.19,115.816c31.841,0,60.661-13.007,81.534-34.049l-25.852-24.931
+					c-14.178,14.303-34.058,23.027-55.682,23.135c-44.401,0.206-79.201-36.49-79.201-80.122c-0.107-22.893,10.092-42.908,25.486-57.595
+					c14.186-14.285,34.058-23.001,55.691-23.108c44.41-0.206,79.201,36.445,79.201,79.997v0.125h-15.661
+					c-9.708,0-13.668,6.499-8.814,14.41l33.799,33.433c7.732,7.732,9.967,7.661,17.646,0l33.799-33.433
+					C262.025,135.781,258.056,129.3,248.348,129.3z"/>
+				</g>
+				</svg>
+			</div>
+			
+		</nav>
+		
+		<section>
+		
+		<article class="hidden">
+			<img ng-src={{rndm1.poster}} alt="{{rndm1.title}}">
+			<div class="description">
+				<h2>{{rndm1.title}}
+				<br/>
+				<small>
+					{{rndm1.year}} 
+					<i class="fa fa-clock-o" aria-hidden="true"></i> 
+					{{rndm1.duration}}
+				</small>
+				</h2>
+				<p>
+					{{rndm1.genre}}
+					<br/>
+					{{rndm1.actors}}
+				</p>
+				<i id="i__1" class="fa fa-film" title="YT Trailer" aria-hidden="true">
+					<div id="tr__1" class="hidden">{{rndm1.trailer}}</div>
+				</i>
+				<p>
+					{{rndm1.description}}
+				</p>
+			</div>
+		</article>
+		
+		<article class="hidden">
+			<img ng-src={{rndm2.poster}} alt="{{rndm2.title}}">
+			<div class="description">
+				<h2>{{rndm2.title}}
+				<br/>
+				<small>
+					{{rndm2.year}} 
+					<i class="fa fa-clock-o" aria-hidden="true"></i> 
+					{{rndm2.duration}}
+				</small>
+				</h2>
+				<p>
+					{{rndm2.genre}}
+					<br/>
+					{{rndm2.actors}}
+				</p>
+				<i id="i__2" class="fa fa-film" title="YT Trailer" aria-hidden="true">
+					<div id="tr__2" class="hidden">{{rndm2.trailer}}</div>
+				</i>
+				<p>
+					{{rndm2.description}}
+				</p>
+			</div>
+		</article>
+		
+		<article class="hidden">
+			<img ng-src={{rndm3.poster}} alt="{{rndm3.title}}">
+			<div class="description">
+				<h2>{{rndm3.title}}
+				<br/>
+				<small>
+					{{rndm3.year}} 
+					<i class="fa fa-clock-o" aria-hidden="true"></i> 
+					{{rndm3.duration}}
+				</small>
+				</h2>
+				<p>
+					{{rndm3.genre}}
+					<br/>
+					{{rndm3.actors}}
+				</p>
+				<i id="i__3" class="fa fa-film" title="YT Trailer" aria-hidden="true">
+					<div id="tr__3" class="hidden">{{rndm3.trailer}}</div>
+				</i>
+				<p>
+					{{rndm3.description}}
+				</p>
+			</div>
+		</article>
+		
+		</section>	
+	</div>
+
+	<div class="trailer__z hidden">
+		<div id="trailer__c"><i class="fa fa-times"></i></div>
+	</div>
+
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/angular.min.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
