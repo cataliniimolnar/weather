@@ -20,7 +20,7 @@ app.controller("MainController", function($scope){
             actors: 'Russell Crowe, Christian Bale, Ben Foster',
 			description: "TA small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
 			poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SY1000_CR0,0,663,1000_AL_.jpg',
-			trailer: 'jX1m45CwvJ8'
+			trailer: 'mmtYNhFTPpw'
         },
         {
             title: "3 Idiots",

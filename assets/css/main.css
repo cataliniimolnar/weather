@@ -3,7 +3,8 @@
 *::before {
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	margin: 0; padding: 0; /*transition: all 0.05s linear;*/
+	margin: 0; padding: 0;
+	user-select: none;
 	}
 
 html{
