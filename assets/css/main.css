@@ -90,7 +90,8 @@ article .description {
 	z-index: 2;
 	}
 article .description h2 {
-	font-size: 1.3em;
+	font-size: 2em;
+	font-weight: 600;
 	}
 article .description p {
 	margin: 3px 0;
