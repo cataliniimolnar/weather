@@ -28,7 +28,7 @@ a { text-decoration: none; outline: none; cursor: pointer; }
 a:hover {   }
 a:focus { outline: none; }
 
-h2 { font-size: 1em; }
+h2 { font-family: 'Shadows Into Light', cursive; font-size: 1.3em; }
 
 .fa { color: rgba(43,108,196,1); }
 
