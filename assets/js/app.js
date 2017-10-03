@@ -5,7 +5,7 @@ app.controller("MainController", function($scope){
         {
             title: "2 Guns",
             year: 2013,
-			duration: '1h 49min',
+			duration: ' 1:49',
 			genre: 'Action, Comedy, Crime',
             actors: 'Denzel Washington, Mark Wahlberg, Paula Patton',
 			description: "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
@@ -15,7 +15,7 @@ app.controller("MainController", function($scope){
         {
             title: "3 10 to Yuma",
             year: 2007,
-			duration: '2h 02min',
+			duration: ' 2:02',
 			genre: 'Adventure, Crime, Drama',
             actors: 'Russell Crowe, Christian Bale, Ben Foster',
 			description: "TA small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
@@ -25,7 +25,7 @@ app.controller("MainController", function($scope){
         {
             title: "3 Idiots",
             year: 2009,
-			duration: '2h 44min',
+			duration: ' 2:44',
 			genre: 'Adventure, Comedy, Drama',
             actors: 'Aamir Khan, Madhavan, Mona Singh',
 			description: "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
@@ -43,7 +43,7 @@ app.controller("MainController", function($scope){
         {
             title: "",
             year: 2007,
-			duration: '1h min',
+			duration: '1:00',
 			genre: '',
             actors: '',
 			description: "",
