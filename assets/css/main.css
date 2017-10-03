@@ -28,8 +28,6 @@ a { text-decoration: none; outline: none; cursor: pointer; }
 a:hover {   }
 a:focus { outline: none; }
 
-h2 { font-family: 'Shadows Into Light', cursive; font-size: 1.3em; }
-
 .fa { color: rgba(43,108,196,1); }
 
 
@@ -92,11 +90,12 @@ article .description {
 	z-index: 2;
 	}
 article .description h2 {
-	font-size: 1.1em;
+	font-size: 1.3em;
+	font-family: 'Shadows Into Light', cursive;
 	}
 article .description p {
 	margin: 3px 0;
-	font-size: 0.8em;
+	font-size: 0.9em;
 	}
 article .description h2, article .description p { cursor: default; }
 article .description .fa-film { cursor: pointer; font-size: 1.4em; }
