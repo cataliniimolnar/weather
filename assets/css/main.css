@@ -196,15 +196,4 @@ nav .btn_top:hover i  {
 	color: #ffcf48;
 	}
 
-
-
-
-
-@media screen and (max-width: 639px) {
-	.trailer__z #trframe { width: 560px; height: 315px; }
-	
-}
-@media screen and (min-width: 640px) {
-	.trailer__z #trframe { width: 675px; height: 380px; }
-	
-}
+.trailer__z #trframe { width: 80vw; height: 80vh; }
