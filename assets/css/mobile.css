@@ -44,10 +44,10 @@ a:focus { outline: none; }
 section {
 	width: 100%;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: center;
-	align-items: flex-start;
+	align-items: center;
 	}
 
 
@@ -94,38 +94,13 @@ article .description p {
 article .description h2, article .description p { cursor: default; }
 article .description .fa-youtube-play { cursor: pointer; font-size: 1.4em; }
 
-article:hover {
-	box-shadow: 0px 10px 34px -8px rgba(65, 74, 76, 0.8);
-	animation: animationi 0.8s linear 0s forwards;
-	}
-article:hover .description {
-	animation: animationii 0.2s linear 0.7s forwards;
-	}
 .m_title { font-size: 1.2em; font-weight: 600; }
 .m_year { font-size: 0.8em; font-weight: 600; }
 .m_duration { font-size: 0.9em; font-weight: 600; }
 .m_genre, .m_actors { font-size: 0.8em; font-style: italic; }
 .m_description { font-size: 0.8em; }
 
-@keyframes animationi {
-    0% { 
-		border: 4px solid rgba(255, 255, 255, 0.4);
-		}
-	100% {
-		border: 4px solid rgba(255, 130, 67, 1);
-		}
-	}
-@keyframes animationii {
-    0% { 
-		opacity: 0;
-		}
-	
-	100% {
-		opacity: 1;
-		}
-	}
-
-
+article .show { opacity: 1; }
 
 .trailer__z {
 	width: 100%;

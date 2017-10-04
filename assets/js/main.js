@@ -32,9 +32,13 @@ $(function() {
 		}).appendTo('.trailer__z');
 	});
 
-	$('.fa-times').click(function(){
+	$('.trailer__z').click(function(){
 		$('#trframe').remove();
 		$('.trailer__z').addClass('hidden');
+	});
+
+	$('.description').click(function(){
+		$(this).toggleClass('show');
 	});
 
 });

@@ -2,55 +2,15 @@ var app = angular.module('app',[]);
 app.controller("MainController", function($scope){
 
     $scope.movies = [
-        {
-            title: "2 Guns",
-            year: 2013,
-			duration: ' 1:49',
-			genre: 'Action, Comedy, Crime',
-            actors: 'Denzel Washington, Mark Wahlberg, Paula Patton',
-			description: "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
-			poster: 'https://borgdotcom.files.wordpress.com/2014/05/2-guns-movie-poster.jpg',
-			trailer: 'AK6EbfdnTHg'
-        },
-        {
-            title: "3 10 to Yuma",
-            year: 2007,
-			duration: ' 2:02',
-			genre: 'Adventure, Crime, Drama',
-            actors: 'Russell Crowe, Christian Bale, Ben Foster',
-			description: "TA small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
-			poster: 'https://upload.wikimedia.org/wikipedia/en/2/27/310_to_Yuma_%282007_film%29.jpg',
-			trailer: 'mmtYNhFTPpw'
-        },
-        {
-            title: "3 Idiots",
-            year: 2009,
-			duration: ' 2:44',
-			genre: 'Adventure, Comedy, Drama',
-            actors: 'Aamir Khan, Madhavan, Mona Singh',
-			description: "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
-			poster: 'https://images-na.ssl-images-amazon.com/images/M/MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,747,1000_AL_.jpg',
-			trailer: 'K0eDlFX9GMc'
-        }
+{ 
+title: "10 Things I Hate About You ", year: 1999, duration: '1:37', genre: 'Comedy, Drama, Romance', actors: 'Heath Ledger,  Julia Stiles,  Joseph Gordon-Levitt', description: "A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.", poster: "https://s1.r-l.ro/sm/1/4/14.jpg", trailer: 'uE7qjQlfoRs'}
+, { title: "10,000 B.C. ", year: 2008, duration: '1:49', genre: 'Action, Adventure, Drama', actors: 'Camilla Belle,  Steven Strait,  Cliff Curtis', description: "A prehistoric epic that follows a young mammoth hunter's journey through uncharted territory to secure the future of his tribe.", poster: "https://s1.r-l.ro/sm/8/4/8444.jpg", trailer: 'kxLKoa6pkxo'}
+, { title: "The 11th Hour ", year: 2007, duration: '1:35', genre: 'Documentary', actors: 'Leonardo DiCaprio,  Kenny Ausubel,  Thom Hartmann', description: "A look at the state of the global environment including visionary and practical solutions for restoring the planet's ecosystems. ", poster: "https://s3.r-l.ro/sm/8/6/8642.jpg", trailer: '7IBG2V98IBY'}
+, { title: "12 Years a Slave ", year: 2013, duration: '2:14', genre: 'Biography, Drama, History', actors: 'Chiwetel Ejiofor,  Michael Fassbender, Brad Pitt', description: "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. ", poster: "https://s4.r-l.ro/sm/2/2/22837.jpg", trailer: 'z02Ie8wKKRg'}
+, { title: "13 ", year: 2010, duration: '1:31', genre: 'Drama, Thriller', actors: 'Jason Statham, Sam Riley,  Alice Barrett', description: "A naive young man assumes a dead man's identity and finds himself embroiled in an underground world of power, violence, and chance where men gamble behind closed doors on the lives of other men.", poster: "https://s1.r-l.ro/sm/1/5/15830.jpg", trailer: '7mQr3vUQzYc'}
+, { title: "13 Hours", year: 2016, duration: '2:24', genre: 'Action, Drama, History', actors: 'John Krasinski,  Pablo Schreiber,  James Badge Dale', description: "During an attack on a U.S. compound in Libya, a security team struggles to make sense out of the chaos. ", poster: "https://s1.r-l.ro/sm/2/7/27890.jpg", trailer: '5MBjAN7jqsQ'}
 
 
-
-
-
-
-        /*
-        ,
-        {
-            title: "",
-            year: 2007,
-			duration: '1:00',
-			genre: '',
-            actors: '',
-			description: "",
-			poster: '',
-			trailer: ''
-        }
-        */
 
     ];
 	
