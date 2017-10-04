@@ -90,6 +90,7 @@ article .description h2 {
 	}
 article .description p {
 	overflow: hidden;
+	padding: 0 0 4px 0;
 	}
 article .description h2, article .description p { cursor: default; }
 article .description .fa-youtube-play { cursor: pointer; font-size: 1.4em; }
@@ -103,8 +104,8 @@ article:hover .description {
 	}
 .m_title { font-size: 1.2em; font-weight: 600; }
 .m_year { font-size: 0.8em; font-weight: 600; }
-.m_duration { font-size: 0.9em; font-weight: 600; }
-.m_genre, .m_actors { font-size: 0.8em; font-style: italic; }
+.m_duration { font-size: 0.8em; font-weight: 600; }
+.m_genre, .m_actors { font-size: 0.75em; }
 .m_description { font-size: 0.8em; }
 
 @keyframes animationi {
@@ -138,7 +139,7 @@ article:hover .description {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	z-index: 3;
+	z-index: 4;
 	}
 
 
@@ -166,7 +167,7 @@ nav .btn_top {
 	align-items: center;
 	padding: 1em;
 	cursor: pointer;
-	z-index: 9;
+	z-index: 3;
 	border-radius: 50%;
 	background-image: radial-gradient( rgba(168,228,160,1), rgba(65,74,76,1));
 	box-shadow: 0px 0px 16px 0px rgba(255,255,255,1);
