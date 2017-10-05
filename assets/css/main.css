@@ -14,8 +14,8 @@ html{
 	color: rgba(34, 34, 34, 1);
 	}
 body{
-	width: 100%;
-	min-height: 100%;
+	width: 100vw;
+	height: 100vh;
 	}
 
 h1, h2, p, span {
@@ -33,8 +33,8 @@ a:focus { outline: none; }
 
 
 .wrapper {
-	min-width: 420px;
-	max-width: 1024px;
+	width: inherit;
+	height: inherit;
 	margin: 0 auto;
 	padding: 10px;
 	}
@@ -43,11 +43,13 @@ a:focus { outline: none; }
 
 section {
 	width: 100%;
+	padding: 30px 20px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: flex-start;
+	overflow-y: auto;
 	}
 
 
