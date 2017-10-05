@@ -43,7 +43,7 @@
 				<br/>
 				<i id="i__1" class="fa fa-youtube-play" title="YT Trailer" aria-hidden="true"></i>
 				<br/>
-				<span class="m_description">{{rndm1.description}}</span>
+				<span class="m_description">{{rndm1.description | limitTo:65}}...</span>
 				</p>
 			<div id="tr__1" class="hidden">{{rndm1.trailer}}</div>
 			</div>
@@ -63,7 +63,7 @@
 				<br/>
 				<i id="i__2" class="fa fa-youtube-play" title="YT Trailer" aria-hidden="true"></i>
 				<br/>
-				<span class="m_description">{{rndm2.description}}</span>
+				<span class="m_description">{{rndm2.description | limitTo:65}}...</span>
 				</p>
 			<div id="tr__2" class="hidden">{{rndm2.trailer}}</div>
 			</div>
@@ -83,7 +83,7 @@
 				<br/>
 				<i id="i__3" class="fa fa-youtube-play" title="YT Trailer" aria-hidden="true"></i>
 				<br/>
-				<span class="m_description">{{rndm3.description}}</span>
+				<span class="m_description">{{rndm3.description | limitTo}}...</span>
 				</p>
 			<div id="tr__3" class="hidden">{{rndm3.trailer}}</div>
 			</div>
