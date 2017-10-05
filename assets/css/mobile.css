@@ -86,9 +86,11 @@ article .description {
 	z-index: 2;
 	}
 article .description h2 {
+	width: 100%;
 	padding: 4px;
 	}
 article .description p {
+	width: 100%;
 	overflow: hidden;
 	}
 article .description h2, article .description p { cursor: default; }
