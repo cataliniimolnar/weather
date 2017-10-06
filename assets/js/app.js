@@ -10,10 +10,37 @@ app.controller("MainController", function($scope){
 		$scope.rndm1 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
 		$scope.rndm2 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
 		$scope.rndm3 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
+		$scope.rndm4 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
+		$scope.rndm5 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
 		do {
 			$scope.rndm2 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
 			$scope.rndm3 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
-		} while ( $scope.rndm2 == $scope.rndm1 || $scope.rndm3 == $scope.rndm2 || $scope.rndm3 == $scope.rndm1 );
+			$scope.rndm4 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
+			$scope.rndm5 = $scope.movies[Math.floor(Math.random() * $scope.movies.length)];
+		} while ( 
+			$scope.rndm2 == $scope.rndm1
+			||
+			$scope.rndm3 == $scope.rndm2
+			||
+			$scope.rndm3 == $scope.rndm1
+			||
+			$scope.rndm4 == $scope.rndm1
+			||
+			$scope.rndm4 == $scope.rndm2
+			||
+			$scope.rndm4 == $scope.rndm3
+			||
+			$scope.rndm4 == $scope.rndm5
+			||
+			$scope.rndm5 == $scope.rndm1
+			||
+			$scope.rndm5 == $scope.rndm2
+			||
+			$scope.rndm5 == $scope.rndm3
+			||
+			$scope.rndm5 == $scope.rndm4
+
+			);
 	}
 	
 });
