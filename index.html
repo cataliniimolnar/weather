@@ -35,10 +35,11 @@
 		</div>
 		<div class="m__details">
 			<i class="fa fa-film" aria-hidden="true">
+			<span><h3>{{movie.title}}<br/>{{movie.year}}<br/>{{movie.duration}}</h3><br/>{{movie.genre}}<br/><br/>{{movie.actors}}</span>
 			<span>{{movie.description}}</span>
 			</i>
-			<i class="fa fa-clock-o " aria-hidden="true">
-			<span><h3>{{movie.year}}<br/>{{movie.duration}}</h3><br/>{{movie.genre}}<br/><br/>{{movie.actors}}</span>
+			<i class="fa fa-info-circle" aria-hidden="true">
+			<span>{{movie.description}}</span>
 			</i>
 			<i class="fa fa-youtube-play" aria-hidden="true" title="yt trailer">
 				<span class="t__link hidden">{{movie.trailer}}</span>

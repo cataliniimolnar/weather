@@ -53,7 +53,7 @@ article .m__details {
 	}
 article .m__details .fa-youtube-play,
 article .m__details .fa-film,
-article .m__details .fa-clock-o {
+article .m__details .fa-info-circle {
 	margin: 3px 6px;
 	cursor: pointer;
 	font-size: 1.8em;
@@ -61,14 +61,14 @@ article .m__details .fa-clock-o {
 	}
 article .m__details .fa-youtube-play { color: #fffefe; }
 article .m__details .fa-film { color: #fffefe; }
-article .m__details .fa-clock-o { color: #fffefe; }
+article .m__details .fa-info-circle { color: #fffefe; }
 
 article:hover .m__details {
 	opacity: 0.9;
 	}
 
 article .m__details .fa-film span,
-article .m__details .fa-clock-o span {
+article .m__details .fa-info-circle span {
 	transition: all 0.15s linear;
 	display: none;
 	}
@@ -76,7 +76,7 @@ article .m__details:hover {
 	border-radius: 0;
 	}
 article .m__details .fa-film:hover span,
-article .m__details .fa-clock-o:hover span {
+article .m__details .fa-info-circle:hover span {
 	position: absolute;
 	display: block;
 	padding: 6px 10px;
@@ -164,7 +164,7 @@ article .m__details .fa-clock-o:hover span {
 		
 		}
 	article .m__details .fa-film,
-	article .m__details .fa-clock-o {
+	article .m__details .fa-info-circle {
 		
 		}
 	.s-btns .s_btn {
