@@ -64,7 +64,7 @@ article .m__details .fa-film { color: #fffefe; }
 article .m__details .fa-info-circle { color: #fffefe; }
 
 article:hover .m__details {
-	opacity: 0.9;
+	opacity: 0.95;
 	}
 
 article .m__details .fa-film span,
@@ -82,7 +82,7 @@ article .m__details .fa-info-circle:hover span {
 	padding: 6px 10px;
 	top: 0px;
 	left: 40px;
-	width: 204px;
+	width: 203px;
 	height: auto;
 	font-size: 16px;
 	border-radius: 0 0 0 4px;
@@ -95,7 +95,7 @@ article .m__details .fa-info-circle:hover span {
 	}
 article .m__details .fa-info-circle:hover span {
 	text-align: left;
-	overflow-y: auto;
+	font-size: 14px;
 	}
 	
 .trailer {
