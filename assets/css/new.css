@@ -93,6 +93,9 @@ article .m__details .fa-info-circle:hover span {
 	text-align: center;
 	z-index: 10;
 	}
+article .m__details .fa-info-circle:hover span {
+	text-align: justify;
+	}
 	
 .trailer {
 	position: fixed;
