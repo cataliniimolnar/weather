@@ -211,11 +211,12 @@ section article .m__title {
 
 
 h1, h2, h3, h4, h5, p, span { font-family: sans-serif; }
+a, a:hover, a:focus { text-decoration: none; }
 
 #detect__browser {
 	position: fixed;
 	top: 0;
-	left: 0;
+	right: 0;
 	width: 25px;
 	height: 25px;
 	display: flex;
