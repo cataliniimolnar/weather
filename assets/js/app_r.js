@@ -11,10 +11,10 @@ app.filter('shuffle', function() {
         return o;
     };
 	});
-app.controller("MainController", "$http", function($scope, $http){
+app.controller("MainController", ["$scope", "$http", function($scope, $http){
     
     $http.get("assets/data/data.json").success(function(data){
         $scope.movies = data;
     });
 
-	});
+	}]);
