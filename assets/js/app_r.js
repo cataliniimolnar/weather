@@ -13,7 +13,7 @@ app.filter('shuffle', function() {
 	});
 app.controller("MainController", ["$scope", "$http", function($scope, $http){
     
-    $http.get("assets/data/data.json").success(function(data){
+    $http.get("assets/data/data.json").then(function(data){
         $scope.movies = data;
     });
 
