@@ -119,6 +119,31 @@
 		"name": "Marcus Aurelius",
 		"quote": "Is it your reputation that is bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows all. The emptiness of all those applauding hands.",
 		"subject": "About Failing in Our Career"
+		},
+		{ 
+			"name": "Buddha", 
+			"quote": "The mind is everything. What you think you become.", 
+			"subject": "About the Mind" 
+		}, 
+		{
+			"name": "Buddha",
+			"quote": "Peace comes from within. Do not seek it without.",
+			"subject": "About Peace"
+		}, 
+		{
+			"name": "Buddha", 
+			"quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.", 
+			"subject": "About Life" 
+		}, 
+		{ 
+			"name": "Buddha", 
+			"quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.", 
+			"subject": "About Us" 
+		}, 
+		{ 
+			"name": "Buddha", 
+			"quote": "Better than a thousand hollow words, is one word that brings peace.", 
+			"subject": "About Peace" 
 		}
 		
 
