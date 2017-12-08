@@ -1,149 +1,159 @@
 {
 	"people": [
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Nowhere you can go is more peaceful, more free of interruptions, than your own soul. Retreat to consult your own soul and then return to face what awaits you.",
-		"subject": "About Negativity"
+			"name": "Marcus Aurelius",
+			"quote": "Nowhere you can go is more peaceful, more free of interruptions, than your own soul. Retreat to consult your own soul and then return to face what awaits you.",
+			"subject": "Negativity"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Is a world without pain possible? Then don't ask the impossible.",
-		"subject": "About Negativity"
+			"name": "Marcus Aurelius",
+			"quote": "Is a world without pain possible? Then don't ask the impossible.",
+			"subject": "Negativity"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Nowhere you can go is more peaceful, more free of interruptions, than your own soul. Retreat to consult your own soul and then return to face what awaits you.",
-		"subject": "About Negativity"
+			"name": "Marcus Aurelius",
+			"quote": "Nowhere you can go is more peaceful, more free of interruptions, than your own soul. Retreat to consult your own soul and then return to face what awaits you.",
+			"subject": "Negativity"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Is a world without pain possible? Then don't ask the impossible.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "Is a world without pain possible? Then don't ask the impossible.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Ask: What is so unbearable about this situation? Why can't you endure it? You will be embarrassed to answer.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "Ask: What is so unbearable about this situation? Why can't you endure it? You will be embarrassed to answer.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "To do harm is to do yourself harm. To do an injustice is to do yourself an injustice. It degrades you. You can also commit injustice by doing nothing.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "To do harm is to do yourself harm. To do an injustice is to do yourself an injustice. It degrades you. You can also commit injustice by doing nothing.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "It's silly to try to escape other people's faults. Just try and escape your own.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "It's silly to try to escape other people's faults. Just try and escape your own.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "People exist for one another. You can instruct or endure them.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "People exist for one another. You can instruct or endure them.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "There have to be shameless people in the world. This person in front of you might just be one of them. Remembering that a whole class must necessarily exist will enable you to tolerate its members.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "There have to be shameless people in the world. This person in front of you might just be one of them. Remembering that a whole class must necessarily exist will enable you to tolerate its members.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "As an antidote to battle unkindness we were given kindness.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "As an antidote to battle unkindness we were given kindness.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Choose not to be harmed and you won't feel harmed. Don't feel harmed, and you haven't been.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "Choose not to be harmed and you won't feel harmed. Don't feel harmed, and you haven't been.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are like this because they can't tell good from evil. But I have seen the beauty of good and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own – not of the same blood or birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him. We were born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote": "When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are like this because they can't tell good from evil. But I have seen the beauty of good and the ugliness of evil, and have recognized that the wrongdoer has a nature related to my own – not of the same blood or birth, but the same mind, and possessing a share of the divine. And so none of them can hurt me. No one can implicate me in ugliness. Nor can I feel angry at my relative, or hate him. We were born to work together like feet, hands, and eyes, like the two rows of teeth, upper and lower. To obstruct each other is unnatural. To feel anger at someone, to turn your back on him: these are obstructions.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote" : "The only thing that isn't worthless: to live this life out truthfully and rightly. And be patient with those who don't.",
-		"subject": "About the Rudeness of Others"
+			"name": "Marcus Aurelius",
+			"quote" : "The only thing that isn't worthless: to live this life out truthfully and rightly. And be patient with those who don't.",
+			"subject": "Others"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "After death there is no 'us' to suffer harm.",
-		"subject": "About Dying"
+			"name": "Marcus Aurelius",
+			"quote": "After death there is no 'us' to suffer harm.",
+			"subject": "Dying"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Nature first invited you in and then sends you away. Before long, darkness. Make your exit with grace. The same grace shown to you.",
-		"subject": "About Dying"
+			"name": "Marcus Aurelius",
+			"quote": "Nature first invited you in and then sends you away. Before long, darkness. Make your exit with grace. The same grace shown to you.",
+			"subject": "Dying"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Accept death in a cheerful spirit, as nothing but the dissolution of the elements from which each living thing is composed. If it doesn't hurt the individual elements to change continually into one another, why are people afraid of all of them changing and separating? It's a natural thing. And nothing natural is evil.",
-		"subject": "About Dying"
+			"name": "Marcus Aurelius",
+			"quote": "Accept death in a cheerful spirit, as nothing but the dissolution of the elements from which each living thing is composed. If it doesn't hurt the individual elements to change continually into one another, why are people afraid of all of them changing and separating? It's a natural thing. And nothing natural is evil.",
+			"subject": "Dying"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "You could leave life right now. Let that determine what you do, say, and think.",
-		"subject": "About Dying"
+			"name": "Marcus Aurelius",
+			"quote": "You could leave life right now. Let that determine what you do, say, and think.",
+			"subject": "Dying"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Your soul takes on the color of your thoughts.",
-		"subject": "Good Advice"
+			"name": "Marcus Aurelius",
+			"quote": "Your soul takes on the color of your thoughts.",
+			"subject": "Advice"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "If it's endurable, then endure it. If it's not endurable, then stop complaining. Your destruct will mean its end as well.",
-		"subject": "Good Advice"
+			"name": "Marcus Aurelius",
+			"quote": "If it's endurable, then endure it. If it's not endurable, then stop complaining. Your destruct will mean its end as well.",
+			"subject": "Advice"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Do everything as if it were the last thing you were doing in your life.",
-		"subject": "Good Advice"
+			"name": "Marcus Aurelius",
+			"quote": "Do everything as if it were the last thing you were doing in your life.",
+			"subject": "Advice"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "At some point you have to recognize what world it is that you belong to; what power rules it and from what source you spring; that there is a limit to the time assigned you, and if you don't use it to free yourself it will be gone and will never return.",
-		"subject": "Good Advice"
+			"name": "Marcus Aurelius",
+			"quote": "At some point you have to recognize what world it is that you belong to; what power rules it and from what source you spring; that there is a limit to the time assigned you, and if you don't use it to free yourself it will be gone and will never return.",
+			"subject": "Advice"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Keep before your eyes all those that experienced it before you, and felt shock and outrage and resentment at it. Where are they now? Nowhere.",
-		"subject": "About Failing in Our Career"
+			"name": "Marcus Aurelius",
+			"quote": "Keep before your eyes all those that experienced it before you, and felt shock and outrage and resentment at it. Where are they now? Nowhere.",
+			"subject": "Failing"
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "People who are excited by posthumous fame forget that those who remember them will soon die too.",
-		"subject": "About Failing in Our Career"
+			"name": "Marcus Aurelius",
+			"quote": "People who are excited by posthumous fame forget that those who remember them will soon die too.",
+			"subject": "Failing "
 		},
 		{
-		"name": "Marcus Aurelius",
-		"quote": "Is it your reputation that is bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows all. The emptiness of all those applauding hands.",
-		"subject": "About Failing in Our Career"
+			"name": "Marcus Aurelius",
+			"quote": "Is it your reputation that is bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows all. The emptiness of all those applauding hands.",
+			"subject": "Failing"
 		},
 		{ 
 			"name": "Buddha", 
 			"quote": "The mind is everything. What you think you become.", 
-			"subject": "About the Mind" 
+			"subject": "Mind" 
 		}, 
 		{
 			"name": "Buddha",
 			"quote": "Peace comes from within. Do not seek it without.",
-			"subject": "About Peace"
+			"subject": "Peace"
 		}, 
 		{
 			"name": "Buddha", 
 			"quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.", 
-			"subject": "About Life" 
+			"subject": "Life" 
 		}, 
 		{ 
 			"name": "Buddha", 
 			"quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.", 
-			"subject": "About Us" 
+			"subject": "Us" 
 		}, 
 		{ 
 			"name": "Buddha", 
 			"quote": "Better than a thousand hollow words, is one word that brings peace.", 
-			"subject": "About Peace" 
+			"subject": "Peace" 
+		},
+		{ 
+			"name": "Buddha", 
+			"quote": "Better than worshiping gods is obedience to the laws of righteousness.", 
+			"subject": "Gods" 
+		}, 
+		{ 
+			"name": "Buddha", 
+			"quote": "Hatred does not cease by hatred, but only by love; this is the eternal rule.", 
+			"subject": "Love" 
 		}
 		
 
