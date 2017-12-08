@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Marcus Aurelius",
-			"quote" : "The only thing that isn't worthless: to live this life out truthfully and rightly. And be patient with those who don't.",
+			"quote": "The only thing that isn't worthless: to live this life out truthfully and rightly. And be patient with those who don't.",
 			"subject": "Others"
 		},
 		{
@@ -120,42 +120,295 @@
 			"quote": "Is it your reputation that is bothering you? But look at how soon we're all forgotten. The abyss of endless time that swallows all. The emptiness of all those applauding hands.",
 			"subject": "Failing"
 		},
-		{ 
-			"name": "Buddha", 
-			"quote": "The mind is everything. What you think you become.", 
-			"subject": "Mind" 
-		}, 
+		{
+			"name": "Buddha",
+			"quote": "The mind is everything. What you think you become.",
+			"subject": "Mind"
+		},
 		{
 			"name": "Buddha",
 			"quote": "Peace comes from within. Do not seek it without.",
 			"subject": "Peace"
-		}, 
-		{
-			"name": "Buddha", 
-			"quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.", 
-			"subject": "Life" 
-		}, 
-		{ 
-			"name": "Buddha", 
-			"quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.", 
-			"subject": "Us" 
-		}, 
-		{ 
-			"name": "Buddha", 
-			"quote": "Better than a thousand hollow words, is one word that brings peace.", 
-			"subject": "Peace" 
 		},
-		{ 
-			"name": "Buddha", 
-			"quote": "Better than worshiping gods is obedience to the laws of righteousness.", 
-			"subject": "Gods" 
-		}, 
-		{ 
-			"name": "Buddha", 
-			"quote": "Hatred does not cease by hatred, but only by love; this is the eternal rule.", 
-			"subject": "Love" 
+		{
+			"name": "Buddha",
+			"quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
+			"subject": "Life"
+		},
+		{
+			"name": "Buddha",
+			"quote": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+			"subject": "Us"
+		},
+		{
+			"name": "Buddha",
+			"quote": "Better than a thousand hollow words, is one word that brings peace.",
+			"subject": "Peace"
+		},
+		{
+			"name": "Buddha",
+			"quote": "Better than worshiping gods is obedience to the laws of righteousness.",
+			"subject": "Gods"
+		},
+		{
+			"name": "Buddha",
+			"quote": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+			"subject": "Love"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+			"subject": "Life"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The true sign of intelligence is not knowledge but imagination.",
+			"subject": "Knowledge"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Try not to become a man of success, but rather try to become a man of value.",
+			"subject": "Success"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Education is what remains after one has forgotten what one has learned in school.",
+			"subject": "Education"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "We cannot solve our problems with the same thinking we used when we created them.",
+			"subject": "Mind"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The difference between stupidity and genius is that genius has its limits.",
+			"subject": "Intelligence"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Joy in looking and comprehending is nature's most beautiful gift.",
+			"subject": "Nature"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Whoever is careless with the truth in small matters cannot be trusted with important matters.",
+			"subject": "Truth"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Peace cannot be kept by force; it can only be achieved by understanding.",
+			"subject": "Peace"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "It is the supreme art of the teacher to awaken joy in creative expression and knowledge.",
+			"subject": "Knowledge"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The only source of knowledge is experience.",
+			"subject": "Knowledge"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Logic will get you from A to B. Imagination will take you everywhere.",
+			"subject": "Logic"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.",
+			"subject": "Stupidity"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+			"subject": "Hope"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "I have no special talent. I am only passionately curious.",
+			"subject": "Talent"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "A person who never made a mistake never tried anything new.",
+			"subject": "Mistake"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Weakness of attitude becomes weakness of character.",
+			"subject": "Attitude"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "It has become appallingly obvious that our technology has exceeded our humanity.",
+			"subject": "Technology"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "You can't blame gravity for falling in love.",
+			"subject": "Love"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Pure mathematics is, in its way, the poetry of logical ideas.",
+			"subject": "Mathematics"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Science without religion is lame, religion without science is blind.",
+			"subject": "Science"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Once we accept our limits, we go beyond them.",
+			"subject": "Limits"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+			"subject": "Curiosity"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "It's not that I'm so smart, it's just that I stay with problems longer.",
+			"subject": "Intelligence"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.",
+			"subject": "World"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "If you can't explain it simply, you don't understand it well enough.",
+			"subject": "Understanding"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Without deep reflection one knows from daily life that one exists for other people.",
+			"subject": "Life"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Intellectual growth should commence at birth and cease only at death.",
+			"subject": "Growth"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.",
+			"subject": "Thinking"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The monotony and solitude of a quiet life stimulates the creative mind.",
+			"subject": "Life"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Strive not to be a success, but rather to be of value.",
+			"subject": "Success"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The distinction between the past, present and future is only a stubbornly persistent illusion.",
+			"subject": "Illusion"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Nationalism is an infantile disease. It is the measles of mankind.",
+			"subject": "Nationalism"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Put your hand on a hot stove for a minute and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute.",
+			"subject": "Love"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Few are those who see with their own eyes and feel with their own hearts.",
+			"subject": "See"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.",
+			"subject": "Nature"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The hardest thing to understand in the world is the income tax.",
+			"subject": "Money"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "There are two ways to live: you can live as if nothing is a miracle; you can live as if everything is a miracle.",
+			"subject": "Life"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Everyone should be respected as an individual, but no one idolized.",
+			"subject": "Respect"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Great spirits have always encountered violent opposition from mediocre minds.",
+			"subject": "Great"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Intellectuals solve problems, geniuses prevent them.",
+			"subject": "Wisdom"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Coincidence is God's way of remaining anonymous.",
+			"subject": "Religion"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The value of a man should be seen in what he gives and not in what he is able to receive.",
+			"subject": "Value"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.",
+			"subject": "War"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Most people say that it is the intellect which makes a great scientist. They are wrong: it is character.",
+			"subject": "Character"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "As far as I'm concerned, I prefer silent vice to ostentatious virtue.",
+			"subject": "Virtue"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Technological progress is like an axe in the hands of a pathological criminal.",
+			"subject": "Progress"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Before God we are all equally wise - and equally foolish.",
+			"subject": "Religion"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "The only real valuable thing is intuition.",
+			"subject": "Intuition"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "Solitude is painful when one is young, but delightful when one is more mature.",
+			"subject": "Solitude"
+		},
+		{
+			"name": "Albert Einstein",
+			"quote": "I am a deeply religious nonbeliever - this is a somewhat new kind of religion.",
+			"subject": "Religion"
 		}
-		
-
 	]
 }
