@@ -8105,5 +8105,60 @@
         "description": "A look behind the scenes at Bernie Madoff's massive Ponzi scheme, how it was perpetrated on the public and the trail of destruction it left in its wake, both for the victims and Madoff's family.",
         "poster": "https://image.tmdb.org/t/p/w320/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
         "trailer": "jo_CYCumZgI"
+    },
+    {
+        "id": 738,
+        "title": "An Inconvenient Sequel Truth to Power",
+        "year": 2017,
+        "duration": "1:40",
+        "genre": "Documentary",
+        "actors": "Al Gore, Barack Obama, Donald Trump",
+        "description": "A decade after An Inconvenient Truth brought climate change into the heart of popular culture comes the riveting and rousing follow-up that shows just how close we are to a real energy revolution. Vice President Al Gore continues his tireless fight, traveling around the world training an army of climate champions and influencing international climate policy. Cameras follow him behind the scenes—in moments private and public, funny and poignant—as he pursues the empowering notion that while the stakes have never been higher, the perils of climate change can be overcome with human ingenuity and passion.",
+        "poster": "https://image.tmdb.org/t/p/w320/2WauUg4DcUxng5nwhisu7UFZq4Z.jpg",
+        "trailer": "huX1bmfdkyA"
+    },
+    {
+        "id": 739,
+        "title": "Cars",
+        "year": 2006,
+        "duration": "1:57",
+        "genre": "Animation, Family",
+        "actors": "Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Tony Shalhoub",
+        "description": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+        "poster": "https://image.tmdb.org/t/p/w320/5damnMcRFKSjhCirgX3CMa88MBj.jpg",
+        "trailer": "SbXIj2T-_uk"
+    },
+    {
+        "id": 740,
+        "title": "Cars 2",
+        "year": 2011,
+        "duration": "1:46",
+        "genre": "Animation, Family",
+        "actors": "Owen Wilson, Larry the Cable Guy, Michael Caine, Emily Mortimer, John Turturro",
+        "description": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+        "poster": "https://image.tmdb.org/t/p/w320/AblhtULOVtrkSnFxRPQ8gBemxw9.jpg",
+        "trailer": "lg5hj2c5Nkk"
+    },
+    {
+        "id": 741,
+        "title": "Cars 3",
+        "year": 2017,
+        "duration": "1:49",
+        "genre": "Animation, Family",
+        "actors": "Owen Wilson, Cristela Alonzo, Chris Cooper, Armie Hammer, Bonnie Hunt",
+        "description": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!",
+        "poster": "https://image.tmdb.org/t/p/w320/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+        "trailer": "2LeOH9AGJQM"
+    },
+    {
+        "id": 742,
+        "title": "It",
+        "year": 2017,
+        "duration": "2:15",
+        "genre": "Drama, Fantasy, Horror, Thriller",
+        "actors": "Jaeden Lieberher, Bill Skarsgård, Jeremy Ray Taylor, Sophia Lillis, Finn Wolfhard",
+        "description": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+        "poster": "https://image.tmdb.org/t/p/w320/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+        "trailer": "xKJmEC5ieOk"
     }
 ]
