@@ -1,4 +1,4 @@
-[
+{ "movies" : [
     {
         "id": 1,
         "title": "10 Things I Hate About You",
@@ -8161,4 +8161,6 @@
         "poster": "https://image.tmdb.org/t/p/w320/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
         "trailer": "xKJmEC5ieOk"
     }
-]
+    
+    ]
+}
