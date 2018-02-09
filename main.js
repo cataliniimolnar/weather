@@ -6,14 +6,16 @@ var units = '&units=metric';
 var weather;
 var input;
 
-var locationData;
+
+
+
+
 
 function preload(){
-	locationData = getCurrentPosition();
+	
 	
 	
 	}
-
 
 function setup() {
 	noCanvas();
@@ -21,13 +23,7 @@ function setup() {
 	//input = select('#city');
 	//btn.mousePressed(askForData);
 	
-	console.log(locationData.latitude);
-	console.log(locationData.longitude);
-    //console.log(locationData.accuracy);
-    //console.log(locationData.altitude);
-    //console.log(locationData.altitudeAccuracy);
-    //console.log(locationData.heading);
-    //console.log(locationData.speed);
+	
 	
 }
 
@@ -42,3 +38,5 @@ function gotData(data){
 	weather = data;
 	console.log(weather);
 }
+
+
