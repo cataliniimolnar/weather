@@ -1,0 +1,15 @@
+*, *:before, *:after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+	min-width: 100vw;
+	min-height: 100vh;
+	/*display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;*/
+	
+	}
+canvas {
+	
+}
+
